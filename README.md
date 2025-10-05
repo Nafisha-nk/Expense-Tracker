@@ -1,7 +1,5 @@
 # Expense-Tracker
 
-# Expense Tracker
-
 A simple command-line expense tracker application to manage your personal finances. Track, categorize, and analyze your expenses with ease.
 
 ## Features
